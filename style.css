@@ -1,0 +1,40 @@
+.first{
+ background-color: orange;
+ height: 300px;
+}
+.second{
+	height: 250px;
+	background-color: green;
+	margin-top: 5px;
+	margin-left: 5px;
+}
+.yellow{
+	background-color: yellow;
+	height: 100px;
+	margin-top: 5px;
+	margin-left: 5px;
+}
+.cyan{
+ background-color: cyan;
+ height: 300px;
+ margin-left: 5px;
+ margin-top: 5px;
+}
+.purple{
+	background-color: purple;
+	height: 250px;
+	margin-top: 5px;
+	margin-left: 5px;
+}
+.red{
+	background-color: red;
+	height: 100px;
+	margin-top: 5px;
+	margin-left: 5px;
+}
+.blue{
+	background-color: blue;
+	height: 90px;
+	margin-left: 5px;
+	margin-top: 5px;
+}
